@@ -4,8 +4,8 @@ Utility for creating your own json output in c language.
 
 ## Usage
 
-1. See example.c
-2. The json_util.h file contains the json utility functions.
+1. See [example.c](example.c)
+2. The [json_util.h](json_util.h) file contains the json utility functions.
 
 ## Utility Functions
 

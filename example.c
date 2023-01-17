@@ -1,5 +1,5 @@
 #include"json_util.h"
-
+#include<stdio.h>
 /*
 
 Example taken from https://opensource.adobe.com/Spry/samples/data_region/JSONDataSetSample.html#Example3

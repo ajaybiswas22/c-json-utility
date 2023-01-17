@@ -62,7 +62,7 @@ int main(void)
         batter_group[i] = batter;
     }
 
-    char *batter_array = j_group("batters",batter_group,batter_qty,"[]");
+    char *batter_array = j_group("batter",batter_group,batter_qty,"[]");
 
     // toppings
     int topping_qty = 7;
@@ -105,7 +105,7 @@ int main(void)
                     "{}"
     );
 
-    fprintf(fp, "%s\n",output);
+    fprintf(fp, "%s",output);
 
     fclose(fp);
 

@@ -190,6 +190,7 @@ char* indent(char* str, int indent_length)
 
 /**
  * makes list of strings of num number of elements
+ * the elements can be either of type j_item or j_group (char*)
  */
 char** make_group(int num,...) {
     va_list valist;

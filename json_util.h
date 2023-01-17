@@ -1,6 +1,5 @@
 #ifndef __json_util_h
 #define __json_util_h
-#include<stdio.h>
 #include<stdlib.h>
 #include<string.h>
 #include <stdarg.h>
